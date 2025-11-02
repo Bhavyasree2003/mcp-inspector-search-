@@ -36,12 +36,5 @@ The app can be used as a **base project** for:
   Built with gradient neon themes, glowing buttons, and minimal transitions for a futuristic look.  
 
 
-## 🧩 Tech Stack
 
-| Layer | Tools / Technologies Used |
-|-------|----------------------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Styling Framework** | Custom CSS (Neon / Gradient Theme) |
-| **Backend (Optional)** | Node.js (for file serving, if extended) |
-| **Version Control** | Git & GitHub |
 
